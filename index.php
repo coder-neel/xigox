@@ -177,11 +177,11 @@
 								<use xlink:href="#shopping-bag01"></use>
 							</svg>
 						</span>
-						<span class="btn-cart__badge">1</span>
+						<span class="btn-cart__badge">0</span>
 					</a>
 					<!-- end btn cart -->
 					<!-- start custom btn -->
-					<a href="#" class="top-bar__custom-btn"><span>MAKE ORDER</span></a>
+					<a href="#" class="top-bar__custom-btn"><span>BOOK TECHNICIANS</span></a>
 					<!-- end custom btn -->
 				</div>
 			</div>
@@ -196,7 +196,7 @@
 				<div class="mainSlider mainSlider-size-01 slick-dots-01" data-arrow="false" data-dots="true">
 					<div class="slide main-slider-01-wrapper">
 						<div class="main-slider-02-wrapper">
-							<div class="img--holder" data-bg="images/main-slider/01/main-slider-01.png"></div>
+							<div class="img--holder" data-bg="images/main-slider/01/main-slider-01.jpg"></div>
 							<div class="slide-content">
 								<div class="container" data-animation="fadeInUpSm" data-animation-delay="0s">
 									<div class="slide-layout-01">
@@ -221,7 +221,7 @@
 						</div>
 					</div>
 					<div class="slide">
-						<div class="img--holder" data-bg="images/main-slider/01/main-slider-02.png"></div>
+						<div class="img--holder" data-bg="images/main-slider/01/main-slider-02.jpg"></div>
 						<div class="slide-content">
 							<div class="container" data-animation="fadeInUpSm" data-animation-delay="0s">
 								<div class="slide-layout-02 text-center">
@@ -242,7 +242,7 @@
 						</div>
 					</div>
 					<div class="slide">
-						<div class="img--holder" data-bg="images/main-slider/01/main-slider-03.png"></div>
+						<div class="img--holder" data-bg="images/main-slider/01/main-slider-03.jpg"></div>
 						<div class="slide-content">
 							<div class="container" data-animation="fadeInRightSm" data-animation-delay="0s">
 								<div class="slide-layout-03 text-right">
